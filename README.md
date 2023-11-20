@@ -52,3 +52,4 @@ FASTAPI
 • Внедрение зависимостей и асинхронный генератор
 • Создание классов моделей CRUD
 • FastAPI Users
+https://github.com/Catzilllla/bar_mac_fastapi_test/tree/develop
